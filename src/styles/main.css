@@ -150,3 +150,6 @@
     }
   }
 }
+#banner-wrapper {
+    height: 800px !important;
+}
