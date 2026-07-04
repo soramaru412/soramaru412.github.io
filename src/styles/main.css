@@ -153,3 +153,16 @@
 #banner-wrapper {
     height: 800px !important;
 }
+
+/* Justify text */
+.prose p {
+    text-align: justify;
+}
+
+/* Center images and full width */
+.prose img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
