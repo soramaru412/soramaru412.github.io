@@ -78,7 +78,7 @@ The exam environment is built for testing, so there will be noise in the logs. S
 I thought I'd have plenty of time — I finished both incidents in about 4 days. But writing the analysis report ended up taking the longest. You need to gather enough evidence, so take full screenshots with short notes *while* you're solving. Otherwise you'll have to redo your work just to get the screenshots, which is painful.
 :::
 
-You can use a tool like **Sysreptor** to generate the report in HTB's format. I was too much of a beginner for that, so I just filled in the template HTB provided. Next time I take an HTB cert, I'll give Sysreptor a try.
+You can use a tool like [Sysreptor](https://htb.sysreptor.com/) to generate the report in HTB's format. I was too much of a beginner for that, so I just filled in the template HTB provided. Next time I take an HTB cert, I'll give Sysreptor a try.
 
 ---
 
