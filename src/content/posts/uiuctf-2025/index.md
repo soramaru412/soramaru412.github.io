@@ -10,6 +10,8 @@ draft: false
 
 This was my first time clearing all the OSINT challenges in a CTF competition. I'd like to share my journey here, and I'll keep striving for more all-clears in the future. Big thanks to the organizers — you made a good job!
 
+Our team's final place in the [scoreboard](https://2025.uiuc.tf/fleet/team?team_id=384): 247/642 with a score of 388. Actually I hard carried the whole team :)
+
 ---
 
 ## 🐦 Mr. Blue Sky Suite
