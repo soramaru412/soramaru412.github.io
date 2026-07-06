@@ -88,6 +88,8 @@ const bannerOffset =
 		<meta property="og:url" content={Astro.url}>
 		<meta property="og:title" content={pageTitle}>
 		<meta property="og:description" content={description || pageTitle}>
+		<meta property="og:image" content={`${Astro.site}assets/images/banner.jpg`}>
+		<meta name="twitter:image" content={`${Astro.site}assets/images/banner.jpg`}>
 		{setOGTypeArticle ? (
         <meta property="og:type" content="article" />
         ) : (
