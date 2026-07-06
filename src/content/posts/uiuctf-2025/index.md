@@ -1,6 +1,6 @@
 ---
 title: "UIUCTF 2025 — Full OSINT Clear 🛸"
-published: 2025-07-01
+published: 2026-07-01
 description: "First time clearing all OSINT challenges in a CTF. Mr. Blue Sky suite + GeoGuessr suite."
 image: ''
 tags: [OSINT, CTF, GeoGuessr, UIUCTF]
